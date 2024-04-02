@@ -1,0 +1,1 @@
+export "./splashg_screen.dart";
